@@ -1,6 +1,6 @@
 # Startup Funding Analysis (2024–2025)
 
-A end-to-end data analysis portfolio project covering ETL, data cleaning, exploratory data analysis (EDA), and interactive data visualization using a Crunchbase startup dataset.
+An end-to-end data analysis portfolio project covering ETL, data cleaning, exploratory data analysis (EDA), and interactive data visualization using a Crunchbase startup dataset.
 
 ## 📊 Interactive Dashboard
 
